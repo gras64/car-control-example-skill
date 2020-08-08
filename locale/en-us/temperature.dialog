@@ -1,1 +1,3 @@
-set temperature to {temperature} fahrenheit
+Set temperature to {temperature}
+{Temperature} are being set up
+Temperature controller set to {temperature}

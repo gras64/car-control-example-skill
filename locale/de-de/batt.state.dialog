@@ -1,1 +1,3 @@
 Mein Batterie ist bei {percent} Prozent und du kannst noch etwa {range} Kilometer fahren
+Du kannst noch etwa {range} Kilometer fahren bei {percent} Prozent Batterieleistung
+Mit den vorhandenen {percent} Prozent Batterieleistung kannst du noch etwa {range} Kilometer fahren

@@ -1,1 +1,5 @@
-start loading at {percent} percent
+start charging
+start loading up to {percent} percent
+you can start the loading process (now |)
+Load up to {percent} percent (start |)
+Increase (Energy | State of Charge) to {percent} percent

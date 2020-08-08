@@ -1,1 +1,4 @@
-Stelle Tempomat auf {Geschwindigkeit} (km/h|)
+Stelle Tempomat auf {speed} (km/h|)
+ich möchte (jetzt|) {speed} (km/h|) fahren
+kannst du mich auf {speed} (km/h|) (beschleunigen|abbremsen)
+Tempomat auf {speed} (km/h|)

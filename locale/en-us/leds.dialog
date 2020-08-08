@@ -1,1 +1,4 @@
-set leds to {color}
+Leds {color} set
+my LEDs are now {color}
+{color} is a beautiful color
+I think {color} is beautiful

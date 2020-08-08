@@ -1,1 +1,4 @@
-set leds to yellow
+leds on {color}
+Interior lighting in {color}
+you can do everything {color}
+do everything in {color}

@@ -1,1 +1,4 @@
-stop loading at {percent} percent
+Stop loading at {percent} percent
+Charging will stop at {percent} percent
+Charge at {percent} percent. process completed
+Charging is completeds

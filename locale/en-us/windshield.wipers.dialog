@@ -1,1 +1,2 @@
-put windshield wipers to {speed}
+set windshield wipers to {speed}
+Wiper on {speed}

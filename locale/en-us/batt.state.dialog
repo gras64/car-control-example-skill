@@ -1,1 +1,3 @@
-My batt is at {percent} percent and you can drive {range} kilometers
+My battery is at {percent} percent and you can still drive about {range} kilometers
+You can still drive about {range} kilometers with {percent} percent battery power
+With the existing {percent} percent battery power, you can still drive about {range} kilometers

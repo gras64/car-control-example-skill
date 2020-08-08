@@ -1,1 +1,4 @@
-set cruise control to {speed} km / h
+Set cruise control to {speed} (km/h|)
+I want to drive (now |) {speed} (km/h |)
+can you (accelerate | decelerate) me at {speed} (km/h |)
+Cruise control to {speed} (km/h|)
